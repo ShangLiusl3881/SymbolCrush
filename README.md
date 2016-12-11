@@ -1,1 +1,2 @@
 # SymbolCrush
+We successfully implement a VGA game named Symbol Crush (like Candy Crush). The game is colorful and utilizes five buttons for user interface. A speaker with RCA connector is used and thus pleasant music can be played during the beginning and ending of the game. And the volume of the speaker can be adjusted via a potentiometer. The game is smooth and has some animations, and the display is stable. 
